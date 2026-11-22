@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# AI-Powered RF Intrusion & Jamming Detection System
 
 ## Project info
 
